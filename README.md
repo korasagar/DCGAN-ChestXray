@@ -1,4 +1,4 @@
-# Evaluation of Deep Convolutional GenerativeAdversarial Networks for data augmentation ofchest X-ray images
+# Evaluation of Deep Convolutional Generative Adversarial Networks for data augmentation of chest X-ray images
 
 ## Abstract
 
