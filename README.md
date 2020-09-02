@@ -15,7 +15,7 @@ def imread(filename):\
 	"""\
 	Loads an image file into a (height, width, 3) uint8 ndarray.\
 	"""\
-    return np.asarray(Image.open(filename).convert('RGB').resize((299,299)), dtype=np.uint8)[..., :3]\
+    return np.asarray(Image.open(filename).convert('RGB').resize((299,299)), dtype=np.uint8)[..., :3]
     
 python console: python -m pytorch_fid path/to/dataset1 path/to/dataset2 --dims 768 \
 jupyter notebook: %run -m pytorch_fid path/to/dataset1 path/to/dataset2 --dims 768
