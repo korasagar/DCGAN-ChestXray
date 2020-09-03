@@ -1,4 +1,4 @@
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/evaluation-of-deep-convolutional-generative/medical-image-generation-on)](https://paperswithcode.com/sota/medical-image-generation-on?p=evaluation-of-deep-convolutional-generative)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/evaluation-of-deep-convolutional-generative/medical-image-generation-on-chest-x-ray)](https://paperswithcode.com/sota/medical-image-generation-on-chest-x-ray?p=evaluation-of-deep-convolutional-generative)
 
 # Evaluation of Deep Convolutional Generative Adversarial Networks for data augmentation of chest X-ray images
 
